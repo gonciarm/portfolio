@@ -5,7 +5,7 @@ Hi my name is Mateusz and I'm certified software tester with several years of ex
 * ISTQB: Foundation Level
 * Testing tools: Microfocus ALM, Postman, Robot Framework, Chrome DevTools/Firebug
 * Databases: MySQL, Oracle Database
-* Languages: Python
+* Languages: Python, HTML5, CSS
 * Frameworks: Flask, Bootstrap
 * Version Control Systems: Git
 * Project tools: Confluence, JIRA
