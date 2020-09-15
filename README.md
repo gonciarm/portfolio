@@ -1,5 +1,5 @@
 # Portfolio
-- Easy to use ceneo scraper written in python using google sheets for data storage and configuration.
+- Easy to use ceneo scraper written in python using google sheets for data storage and configuration: https://github.com/gonciarm/ceneo.
 # About me
 Hi my name is Mateusz and I'm certified software tester with several years of experience in commercial testing mostly web applications. 
 # Technology stack
