@@ -10,6 +10,5 @@ Hi my name is Mateusz. I live in Poland in town called Lublin. I'm certified sof
 * Version Control Systems: Git
 * Project tools: Confluence, JIRA
 # Portfolio
-- Easy to use ceneo.pl scraper written in python using google sheets for data storage and configuration: https://github.com/gonciarm/ceneo.
-- Super simple file cleaner: https://github.com/gonciarm/cleaner
+- Easy to use ceneo.pl scraper written in python using google sheets for data storage and configuration: https://github.com/gonciarm/ceneo-spreadsheet.
 - Selenium Python testning framework: https://github.com/gonciarm/selenium_orangehrm
